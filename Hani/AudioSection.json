@@ -1,0 +1,37 @@
+[
+    {
+        "id": "surah",
+        "index": 0,
+        "en": "al-Quran: Short Surahs",
+        "ru": "Коран: короткие суры",
+        "detailEn": "Short surahs from the Quran with transliteration",
+        "detailRu": "Краткие суры с транслитерацией",
+        "opened": 1
+    },
+    {
+        "id": "ayat",
+        "index": 1,
+        "en": "Selected Verses from the Quran",
+        "ru": "Отдельные аяты из Корана",
+        "detailEn": "",
+        "detailRu": "",
+        "opened": 0
+    },
+    {
+        "id": "dua",
+        "index": 2,
+        "en": "Dua & Dhikr",
+        "ru": "Дуа и зикр",
+        "detailEn": "Calling unto Allah from al-Quran and Sunnah",
+        "detailRu": "Взываем к Всевышнему мольбами из Корана и Сунны",
+        "opened": 0
+    },
+    {
+        "id": "bonus",
+        "index": 3,
+        "en": "Bonus for supporting the app",
+        "ru": "Бонус за поддержку проекта",
+        "opened": 0,
+        "parentId": "prayer"
+    }
+]

@@ -1,0 +1,178 @@
+{
+    "surah": [
+        {
+            "id": "1",
+            "ar": "سورة الفاتحة",
+            "en": "Al-Faatihah",
+            "ru": "Аль-Фатиха",
+            "isShown": 1
+        },
+        {
+            "id": "103",
+            "ar": "",
+            "en": "Al-عasr",
+            "ru": "Аль-عаср",
+            "isShown": 1
+        },
+        {
+            "id": "104",
+            "ar": "",
+            "en": "Al-Humazah",
+            "ru": "Аль-Хумаза",
+            "isShown": 1
+        },
+        {
+            "id": "105",
+            "ar": "",
+            "en": "Al-Fil",
+            "ru": "Аль-Филь",
+            "isShown": 0
+        },
+        {
+            "id": "106",
+            "ar": "",
+            "en": "Quraish",
+            "ru": "Кураиш",
+            "isShown": 0
+        },
+        {
+            "id": "107",
+            "ar": "",
+            "en": "Al-Maaعoon",
+            "ru": "Ал-Маعун",
+            "isShown": 0
+        },
+        {
+            "id": "108",
+            "ar": "",
+            "en": "Al-Kauthar",
+            "ru": "Аль-Кяус̱ар",
+            "isShown": 1
+        },
+        {
+            "id": "109",
+            "ar": "",
+            "en": "Al-Kafiroon",
+            "ru": "Аль-Кяфирун",
+            "isShown": 1
+        },
+        {
+            "id": "110",
+            "ar": "",
+            "en": "An-Nasr",
+            "ru": "Ан-Наср",
+            "isShown": 1
+        },
+        {
+            "id": "111",
+            "ar": "",
+            "en": "Al-Masad",
+            "ru": "Аль-Масад",
+            "isShown": 1
+        },
+        {
+            "id": "112",
+            "ar": "سورة الإخلاص",
+            "en": "Al-Ikhlas",
+            "ru": "Аль-Ихляс",
+            "isShown": 1
+        },
+        {
+            "id": "113",
+            "ar": "سورة الفلق",
+            "en": "Al-Falaq",
+            "ru": "Аль-Фаляк",
+            "isShown": 1
+        },
+        {
+            "id": "114",
+            "ar": "سورة الناس",
+            "en": "Аn-Nas",
+            "ru": "Ан-Нас",
+            "isShown": 1
+        }
+    ],
+    "ayat": [
+        {
+            "id": "kursi",
+            "ar": "",
+            "en": "Ayat Al-Kursi",
+            "ru": "Аят аль-Курси",
+            "isShown": 1
+        },
+        {
+            "id": "ramadan",
+            "ar": "",
+            "en": "Ayah of Ramadan",
+            "ru": "Аят о Рамадане",
+            "isShown": 1
+        }
+    ],
+    "dua": [
+        {
+            "id": "tahiyyat",
+            "ar": "",
+            "en": "At-Tahiyyat",
+            "ru": "Ат-Тахиййат",
+            "isShown": 1
+        },
+        {
+            "id": "subhanaka",
+            "ar": "",
+            "en": "Subhanaka",
+            "ru": "Субханака",
+            "isShown": 1
+        },
+        {
+            "id": "salawat",
+            "ar": "",
+            "en": "Salawat",
+            "ru": "Салауат",
+            "isShown": 1
+        },
+        {
+            "id": "qunoot",
+            "ar": "دعاء القنوت",
+            "en": "Dua Qunoot",
+            "ru": "Дуа Кунут",
+            "isShown": 1
+        },
+        {
+            "id": "adhkarAP",
+            "ar": "أذكار بعد الصلاة",
+            "en": "Adhkar after prayer",
+            "ru": "Зикр после намаза",
+            "isShown": 1
+        },
+        {
+            "id": "protection",
+            "ar": "",
+            "en": "Dua for Protection",
+            "ru": "Дуа для защиты",
+            "isShown": 1
+        },
+        {
+            "id": "adhan",
+            "ar": "",
+            "en": "Adhan",
+            "ru": "Азан",
+            "isShown": 0
+        },
+        {
+            "id": "adhandua",
+            "ar": "",
+            "en": "Dua after Adhan",
+            "ru": "Дуа после азана",
+            "isShown": 0
+        }
+    ],
+    "bonus": [
+        {
+            "id": "istikhara",
+            "ar": "",
+            "en": "Dua Istikhara",
+            "ru": "Дуа Истихара",
+            "isShown": 1
+        },
+    ]
+}

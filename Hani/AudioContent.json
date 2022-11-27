@@ -1,0 +1,1554 @@
+{
+    "1": [
+        {
+            "id": "001000",
+            "index": 0,
+            "clean": "أعوذ بالله من الشيطان الرجيم",
+            "uthmani": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+            "enTranslit": "Aعoodhu billaahi minash-shaitaanir-rajeem.",
+            "ruTranslit": "Аъууҙу биль-ляяhи минаш-шайтоонир-роджиим.",
+            "en": "I seek refuge in Allah from Satan the accursed.",
+            "ru": "Ищу убежища у Аллаха от проклятого сатаны."
+        },
+        {
+            "id": "001001",
+            "index": 1,
+            "clean": "بسم الله الرحمن الرحيم",
+            "uthmani": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+            "enTranslit": "Bismillaahir-Raĥmaanir-Raĥeem.",
+            "ruTranslit": "Бисмиль-ляяhир-рохмаанир-рохиим.",
+            "en": "In the name of Allah, Most Gracious, Ever-Merciful.",
+            "ru": "Во имя Аллаха, Милостивого, Милосердного."
+        },
+        {
+            "id": "001002",
+            "index": 2,
+            "clean": "الحمد لله رب العالمين",
+            "uthmani": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+            "enTranslit": "Alĥamdu lillaahi rabbil-عaalameen!",
+            "ruTranslit": "Альхамду лиль-ляяhи роббиль-ъаалямиин!",
+            "en": "Praise be to Allah, the Cherisher and Sustainer of the worlds.",
+            "ru": "Хвала Аллаху, Господу миров!"
+        },
+        {
+            "id": "001003",
+            "index": 3,
+            "clean": "الرحمن الرحيم",
+            "uthmani": "الرَّحْمَنِ الرَّحِيمِ",
+            "enTranslit": "Ar-Raĥmaanir-Raĥeem.",
+            "ruTranslit": "Ар-рохмаанир-рохиим.",
+            "en": "Most Gracious, Ever-Merciful.",
+            "ru": "Милостивому, Милосердному,"
+        },
+        {
+            "id": "001004",
+            "index": 4,
+            "clean": "مالك يوم الدين",
+            "uthmani": "مَالِكِ يَوْمِ الدِّينِ",
+            "enTranslit": "Maaliki yawmid-deen.",
+            "ruTranslit": "Маалики йаумид-диин.",
+            "en": "Master of the Day of Judgment.",
+            "ru": "Властелину Дня воздаяния."
+        },
+        {
+            "id": "001005",
+            "index": 5,
+            "clean": "إياك نعبد وإياك نستعين",
+            "uthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+            "enTranslit": "Iyyaaka naعbudu wa iyyaaka nastaعeen.",
+            "ruTranslit": "Иййаакя наъбуду уа иййаакя настаъиин.",
+            "en": "You alone we worship, and Your help we seek.",
+            "ru": "Тебе одному мы поклоняемся и Тебя одного молим о помощи!"
+        },
+        {
+            "id": "001006",
+            "index": 6,
+            "clean": "اهدنا الصراط المستقيم",
+            "uthmani": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+            "enTranslit": "Ihdinas-siraatal-mustaqeem.",
+            "ruTranslit": "Ихдинас-сыроотоль-мустақиим.",
+            "en": "Guide us to the straight path.",
+            "ru": "Веди нас прямым путем!"
+        },
+        {
+            "id": "001007",
+            "index": 7,
+            "clean": "صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين",
+            "uthmani": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+            "enTranslit": "Siraatal-ladheena anعamta عalaihim, ghairil-magh-ḍoobi عalaihim wa laḍ-ḍaaaalleen.",
+            "ruTranslit": "Сыроотоль-ляҙиина анъамта ъаляйхим, ғойриль-мағдууби ъаляйхим уа ляд-доооль-лиин.",
+            "en": "The path of those You’ve bestowed favor upon, not of those who have earned anger, nor of those who are lost.",
+            "ru": "Путем тех, кого Ты облагодетельствовал, а не тех, на ком гнев, и не заблудших."
+        }
+    ],
+    "103": [
+        {
+            "id": "103001",
+            "index": 1,
+            "clean": "والعصر",
+            "uthmani": "وَالْعَصْرِ",
+            "enTranslit": "Wal-عasr,",
+            "ruTranslit": "Уаль-ъаср,",
+            "en": "By time,",
+            "ru": "Клянусь временем!"
+        },
+        {
+            "id": "103002",
+            "index": 2,
+            "clean": "إن الإنسان لفي خسر",
+            "uthmani": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+            "enTranslit": "Innal-insaana lafee khusr,",
+            "ruTranslit": "Инналь-инсаана ляфии хуср,",
+            "en": "Indeed, mankind is in loss,",
+            "ru": "Воистину, каждый человек в убытке,"
+        },
+        {
+            "id": "103003",
+            "index": 3,
+            "clean": "إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر",
+            "uthmani": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+            "enTranslit": "Illal-ladheena aamanoo wa عamilus-saaliĥaati wa tawaasow bil-ĥaqqi wa tawaasow bis-sabr.",
+            "ruTranslit": "Иль-ляль-ляҙиина аамануу уа ъамилюс-солихаати уа тауаасоу биль-хаққи уа тауаасоу бис-собр.",
+            "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+            "ru": "кроме тех, которые уверовали, совершали праведные деяния, заповедали друг другу истину и заповедали друг другу терпение!"
+        }
+    ],
+    "104": [
+        {
+            "id": "104001",
+            "index": 1,
+            "clean": "ويل لكل همزة لمزة",
+            "uthmani": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+            "enTranslit": "Wailul-likulli humazatil-lumazah,",
+            "ruTranslit": "Уайлюль-ликулли hумазатиль-люмазаh,",
+            "en": "Woe to every scorner and mocker",
+            "ru": "Горе всякому хулителю и обидчику,"
+        },
+        {
+            "id": "104002",
+            "index": 2,
+            "clean": "الذي جمع مالا وعدده",
+            "uthmani": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+            "enTranslit": "Al-ladhee jamaعa maalaw-wa-عaddadah.",
+            "ruTranslit": "Аль-ляҙии джамаъа мааляу-уа ъаддадаh",
+            "en": "Who collects wealth and [continuously] counts it.",
+            "ru": "который копит состояние и пересчитывает его,"
+        },
+        {
+            "id": "104003",
+            "index": 3,
+            "clean": "يحسب أن ماله أخلده",
+            "uthmani": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+            "enTranslit": "Yaĥsabu anna maalahuu akhladah",
+            "ruTranslit": "Йахсабу анна мааляhуу ахлядаh",
+            "en": "He thinks that his wealth will make him immortal.",
+            "ru": "думая, что богатство увековечит его."
+        },
+        {
+            "id": "104004",
+            "index": 4,
+            "clean": "كلا لينبذن في الحطمة",
+            "uthmani": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+            "enTranslit": "Kallaa layumbadhanna fil-ĥutomah",
+            "ruTranslit": "Кяль-ляя ляйумбаҙанна филь-хутомаh",
+            "en": "No! He will surely be thrown into the Crusher.",
+            "ru": "Но нет! Его непременно ввергнут в Огонь сокрушающий."
+        },
+        {
+            "id": "104005",
+            "index": 5,
+            "clean": "وما أدراك ما الحطمة",
+            "uthmani": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+            "enTranslit": "Wa maa adraaka mal-ĥutomah",
+            "ruTranslit": "Уа маа адроокя маль-хутомаh",
+            "en": "And what can make you know what is the Crusher?",
+            "ru": "Откуда ты мог знать, что такое Огонь сокрушающий?"
+        },
+        {
+            "id": "104006",
+            "index": 6,
+            "clean": "نار الله الموقدة",
+            "uthmani": "نَارُ اللَّهِ الْمُوقَدَةُ",
+            "enTranslit": "NaaruLlahil-mooqadah",
+            "ruTranslit": "НааруЛлаhиль-мууқодаh",
+            "en": "It is the fire of Allah, [eternally] fueled,",
+            "ru": "Это - разожженный Огонь Аллаха,"
+        },
+        {
+            "id": "104007",
+            "index": 7,
+            "clean": "التي تطلع على الأفئدة",
+            "uthmani": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+            "enTranslit": "Al-ladhee tattaliعu عalal-af-idah",
+            "ruTranslit": "Аль-ляҙии таттолиъу ъаляль-аф-идаh",
+            "en": "Which mounts directed at the hearts.",
+            "ru": "который вздымается над сердцами."
+        },
+        {
+            "id": "104008",
+            "index": 8,
+            "clean": "إنها عليهم مؤصدة",
+            "uthmani": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+            "enTranslit": "Innahaa عalayhim mu`sadah",
+            "ruTranslit": "Иннаhаа ъаляйhим му`содаh",
+            "en": "Indeed, Hellfire will be closed down upon them",
+            "ru": "Воистину, он сомкнется над ними"
+        },
+        {
+            "id": "104009",
+            "index": 9,
+            "clean": "في عمد ممددة",
+            "uthmani": "فِي عَمَدٍ مُمَدَّدَةٍ",
+            "enTranslit": "Fee عamadim-mumaddadah.",
+            "ruTranslit": "Фии ъамадим-мумаддадаh.",
+            "en": "In extended columns.",
+            "ru": "высокими столбами (мученики будут прикованы к этим столбам или врата Ада будут заперты и закреплены этими столбами)."
+        }
+    ],
+    "108": [
+        {
+            "id": "108001",
+            "index": 1,
+            "clean": "إنا أعطيناك الكوثر",
+            "uthmani": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+            "enTranslit": "Innaa aعtoinaakal-Kauthar",
+            "ruTranslit": "Иннаа аътойнаакяль-Кяуçар",
+            "en": "Indeed, We have granted you, [O Muhammad], al-Kawthar (a river in Paradise).",
+            "ru": "Мы даровали тебе аль-Каусар (бесчисленные блага, в том числе одноименную реку в Раю)."
+        },
+        {
+            "id": "108002",
+            "index": 2,
+            "clean": "فصل لربك وانحر",
+            "uthmani": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+            "enTranslit": "Fasalli lirabbika wanĥar",
+            "ruTranslit": "Фасолли лироббика уанхар",
+            "en": "So pray to your Lord and sacrifice [to Him alone].",
+            "ru": "Посему совершай намаз ради своего Господа и закалывай жертву."
+        },
+        {
+            "id": "108003",
+            "index": 3,
+            "clean": "إن شانئك هو الأبتر",
+            "uthmani": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+            "enTranslit": "Inna shaani-aka huwal-abtar",
+            "ruTranslit": "Инна шааниакя ху-уаль-абтар",
+            "en": "Indeed, your enemy is the one cut off.",
+            "ru": "Воистину, твой ненавистник сам окажется безвестным."
+        }
+    ],
+    "109": [
+        {
+            "id": "109001",
+            "index": 1,
+            "clean": "قل يا أيها الكافرون",
+            "uthmani": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+            "enTranslit": "Qul yaa ayyuhal-kaafiroon.",
+            "ruTranslit": "Қуль йаа аййухаль-кяяфируун.",
+            "en": "Say: O disbelievers!",
+            "ru": "Скажи: О неверующие!"
+        },
+        {
+            "id": "109002",
+            "index": 2,
+            "clean": "لا أعبد ما تعبدون",
+            "uthmani": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+            "enTranslit": "Laa aعbudu maa taعbudoon.",
+            "ruTranslit": "Ляя аъбуду маа таъбудуун.",
+            "en": "I do not worship what you worship.",
+            "ru": "Я не поклоняюсь тому, чему поклоняетесь вы."
+        },
+        {
+            "id": "109003",
+            "index": 3,
+            "clean": "ولا أنتم عابدون ما أعبد",
+            "uthmani": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+            "enTranslit": "Wa laa antum عaabidoona maa aعbud.",
+            "ruTranslit": "Уа ляя антум ъаабидууна маа аъбуд.",
+            "en": "Nor do you worship what I worship.",
+            "ru": "А вы не поклоняетесь Тому, Кому поклоняюсь я."
+        },
+        {
+            "id": "109004",
+            "index": 4,
+            "clean": "ولا أنا عابد ما عبدتم",
+            "uthmani": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+            "enTranslit": "Wa laa ana عaabidoom-maa عabattum.",
+            "ruTranslit": "Уа ляя ана ъаабидум-маа ъабаттум.",
+            "en": "Nor do I serve what you serve.",
+            "ru": "И я не поклоняюсь так, как поклоняетесь вы."
+        },
+        {
+            "id": "109005",
+            "index": 5,
+            "clean": "ولا أنتم عابدون ما أعبد",
+            "uthmani": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+            "enTranslit": "Wa laa antum عaabidoona maa aعbud.",
+            "ruTranslit": "Уа ляя антум ъаабидууна маа аъбуд.",
+            "en": "Nor do you serve what I serve.",
+            "ru": "А вы не поклоняетесь так, как поклоняюсь я."
+        },
+        {
+            "id": "109006",
+            "index": 6,
+            "clean": "لكم دينكم ولي دين",
+            "uthmani": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+            "enTranslit": "Lakum deenukum wa liya deen.",
+            "ruTranslit": "Лякум диинукум уа лийа диин.",
+            "en": "You have your religion, and I have my religion.",
+            "ru": "Вам ваша религия, а мне моя религия!"
+        }
+    ],
+    "110": [
+        {
+            "id": "110001",
+            "index": 1,
+            "clean": "إذا جاء نصر الله والفتح",
+            "uthmani": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+            "enTranslit": "Idhaa jaaa'a nasrullaahi wal-fat-ĥ,",
+            "ruTranslit": "Иҙаа джааа-анасрул-лааhи уаль-фатх,",
+            "en": "When comes the Help of Allah, and Victory,",
+            "ru": "Когда придет помощь Аллаха и настанет победа,"
+        },
+        {
+            "id": "110002",
+            "index": 2,
+            "clean": "ورأيت الناس يدخلون في دين الله أفواجا",
+            "uthmani": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+            "enTranslit": "Wa ra-aytan-naasa yad-khuloona fee deenillaahi afwaajaa,",
+            "ruTranslit": "Уа роайтан-нааса йадхулююна фии дииниль-ляяhи аф-уааджаа,",
+            "en": "And you see the people enter Allah's Religion in crowds,",
+            "ru": "когда ты увидишь, как люди толпами обращаются в религию Аллаха,"
+        },
+        {
+            "id": "110003",
+            "index": 3,
+            "clean": "فسبح بحمد ربك واستغفره إنه كان توابا",
+            "uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا",
+            "enTranslit": "Fasabbiĥ biĥamdi rabbika wastagh-firh, innahuu kaana tawwaabaa.",
+            "ruTranslit": "Фасаббих бихамди роббика уастағфирьh, иннаhу кяяна тау-уаабаа.",
+            "en": "Celebrate the praises of your Lord, and pray for His Forgiveness: For He is ever Accepting of repentance.",
+            "ru": "восславь же хвалой Господа своего и попроси у Него прощения. Воистину, Он - Принимающий покаяния."
+        }
+    ],
+    "111": [
+        {
+            "id": "111001",
+            "index": 1,
+            "clean": "تبت يدا أبي لهب وتب",
+            "uthmani": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ ",
+            "enTranslit": "Tabbat yadaa abee lahabiw-watab-b",
+            "ruTranslit": "Таббат йадаа абии ляhабиу-уатаб-б",
+            "en": "May the hands of Abu Lahab be ruined, and ruined is he.",
+            "ru": "Да пропадут пропадом руки Абу Лахаба, и сам он пропал."
+        },
+        {
+            "id": "111002",
+            "index": 2,
+            "clean": "ما أغنى عنه ماله وما كسب",
+            "uthmani": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+            "enTranslit": "Maa agh-naa عanhu maaluhoo wamaa kasab",
+            "ruTranslit": "Маа ағнаа ъанhу мааляhуу уамаа кясаб",
+            "en": "His wealth will not avail him nor that which he gained.",
+            "ru": "Не спасло его богатство и то, что он приобрел (положение в обществе и дети)."
+        },
+        {
+            "id": "111003",
+            "index": 3,
+            "clean": "سيصلى نارا ذات لهب",
+            "uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ ",
+            "enTranslit": "Sayaslaa naaran-dhaata lahab",
+            "ruTranslit": "Сайасляя наарон-ҙаата ляhаб",
+            "en": "He will burn in a Fire of [blazing] flame.",
+            "ru": "Он попадет в пламенный Огонь."
+        },
+        {
+            "id": "111004",
+            "index": 4,
+            "clean": "وامرأته حمالة الحطب",
+            "uthmani": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ ",
+            "enTranslit": "Wamra`atuhoo ĥammaalatal-ĥatab",
+            "ruTranslit": "Уамро-атуhуу хаммаалятуль-хатоб",
+            "en": "And his wife [as well] - the carrier of firewood.",
+            "ru": "Жена его будет носить дрова,"
+        },
+        {
+            "id": "111005",
+            "index": 5,
+            "clean": "في جيدها حبل من مسد",
+            "uthmani": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+            "enTranslit": "Fee jeedihaa ĥablum-mim-masad",
+            "ruTranslit": "Фии джидиhаа хаблюм-мим-масад.",
+            "en": "Around her neck is a rope of [twisted] fiber.",
+            "ru": "а на шее у нее будет плетеная веревка из пальмовых волокон."
+        }
+    ],
+    "112": [
+        {
+            "id": "112001",
+            "index": 1,
+            "clean": "قل هو الله أحد",
+            "uthmani": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+            "enTranslit": "Qul huwAllaahu aĥad.",
+            "ruTranslit": "Қуль ху-уаллааhу ахад.",
+            "en": "Say: He is Allah, the One and Only.",
+            "ru": "Скажи: Он - Аллах Единый,"
+        },
+        {
+            "id": "112002",
+            "index": 2,
+            "clean": "الله الصمد",
+            "uthmani": "اللَّهُ الصَّمَدُ",
+            "enTranslit": "Allaahus-samad.",
+            "ruTranslit": "Аллааhус-сомад.",
+            "en": "Allah, the Eternal, Absolute.",
+            "ru": "Аллах Самодостаточный."
+        },
+        {
+            "id": "112003",
+            "index": 3,
+            "clean": "لم يلد ولم يولد",
+            "uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "enTranslit": "Lam yalid wa lam yoolad.",
+            "ruTranslit": "Лям йалид уа лям йууляд.",
+            "en": "He has no offspring, nor is He born from anything.",
+            "ru": "Он не родил и не был рожден,"
+        },
+        {
+            "id": "112004",
+            "index": 4,
+            "clean": "ولم يكن له كفوا أحد",
+            "uthmani": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+            "enTranslit": "Wa lam yakul-lahuu kufuwan aĥad.",
+            "ruTranslit": "Уа лям йакуль-ляhуу куфу-уан ахад.",
+            "en": "And no one is comparable to Him.",
+            "ru": "и нет никого равного Ему."
+        }
+    ],
+    "113": [
+        {
+            "id": "113001",
+            "index": 1,
+            "clean": "قل أعوذ برب الفلق",
+            "uthmani": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+            "enTranslit": "Qul aعoodhu birabbil-falaq.",
+            "ruTranslit": "Қуль аъууҙу бироббиль-фаляқ.",
+            "en": "Say: I seek refuge with the Lord of the Dawn",
+            "ru": "Скажи: Ищу убежища у Господа рассвета,"
+        },
+        {
+            "id": "113002",
+            "index": 2,
+            "clean": "من شر ما خلق",
+            "uthmani": "مِن شَرِّ مَا خَلَقَ",
+            "enTranslit": "Min sharri maa khalaq.",
+            "ruTranslit": "Мин шарри маа холяқ.",
+            "en": "from the mischief of created things,",
+            "ru": "от зла того, что сотворил Он,"
+        },
+        {
+            "id": "113003",
+            "index": 3,
+            "clean": "ومن شر غاسق إذا وقب",
+            "uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+            "enTranslit": "Wa min sharri ghaasiqin idhaa waqab.",
+            "ruTranslit": "Уа мин шарри ғоосиқин иҙаа уақоб.",
+            "en": "and from the mischief of Darkness as it overspreads,",
+            "ru": "и от зла ночной темноты, когда она все покрывает,"
+        },
+        {
+            "id": "113004",
+            "index": 4,
+            "clean": "ومن شر النفاثات في العقد",
+            "uthmani": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+            "enTranslit": "Wa min sharrin-naffaathaati fil-عuqad.",
+            "ruTranslit": "Уа мин шаррин-наффааçаати филь-ъуқод.",
+            "en": "from the mischief of those who practise secret arts,",
+            "ru": "и от зла колдуний, дующих на узлы,"
+        },
+        {
+            "id": "113005",
+            "index": 5,
+            "clean": "ومن شر حاسد إذا حسد",
+            "uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "enTranslit": "Wa min sharri ĥaasidin idhaa ĥasad.",
+            "ruTranslit": "Уа мин шарри хаасидин иҙаа хасад.",
+            "en": "and from the mischief of the envious one as he practises envy.",
+            "ru": "и от зла завистника, когда он завидует."
+        }
+    ],
+    "114": [
+        {
+            "id": "114001",
+            "index": 1,
+            "clean": "قل أعوذ برب الناس",
+            "uthmani": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+            "enTranslit": "Qul aعoodhu birabbin-naas.",
+            "ruTranslit": "Қуль аъууҙу бироббин-наас.",
+            "en": "Say: I seek refuge with the Master of men,",
+            "ru": "Скажи: Ищу убежища у Господа людей,"
+        },
+        {
+            "id": "114002",
+            "index": 2,
+            "clean": "ملك الناس",
+            "uthmani": "مَلِكِ النَّاسِ",
+            "enTranslit": "Malikin-naas.",
+            "ruTranslit": "Маликин-наас.",
+            "en": "the King of men,",
+            "ru": "Царя людей,"
+        },
+        {
+            "id": "114003",
+            "index": 3,
+            "clean": "إله الناس",
+            "uthmani": "إِلَهِ النَّاسِ",
+            "enTranslit": "ilaahin-naas.",
+            "ruTranslit": "Иляяhин-наас.",
+            "en": "the God of men.",
+            "ru": "Бога людей,"
+        },
+        {
+            "id": "114004",
+            "index": 4,
+            "clean": "من شر الوسواس الخناس",
+            "uthmani": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+            "enTranslit": "Min sharril-waswaasil-khannaas.",
+            "ruTranslit": "Мин шарриль-уас-уаасиль-хоннаас.",
+            "en": "From the evil of the sneaky whisperer,",
+            "ru": "от зла искусителя отступающего (при поминании Аллаха),"
+        },
+        {
+            "id": "114005",
+            "index": 5,
+            "clean": "الذي يوسوس في صدور الناس",
+            "uthmani": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+            "enTranslit": "Al-ladhee yuwaswisu fee sudoorin-naas.",
+            "ruTranslit": "Аль-ляҙии йу-уас-уису фии судуурин-наас.",
+            "en": "who whispers into the hearts of men,",
+            "ru": "который наущает в груди людей,"
+        },
+        {
+            "id": "114006",
+            "index": 6,
+            "clean": "من الجنة والناس",
+            "uthmani": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+            "enTranslit": "Minal-jinnati wan-naas.",
+            "ruTranslit": "Миналь-джиннати уан-наас.",
+            "en": "from among the jinn and the men.",
+            "ru": "и бывает из джиннов и людей."
+        }
+    ],
+    "kursi": [
+        {
+            "id": "kursi1",
+            "index": 1,
+            "clean": "الله لا إله إلا هو الحي القيوم",
+            "uthmani": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+            "enTranslit": "Allaahu laaa ilaaha illaa huwal-ĥayyul-qayyoom.",
+            "ruTranslit": "Аллааhу ляя иляяhа иль-ляя hу-уаль-хаййуль-қаййуум.",
+            "en": "Allah! There is no god but He, the Living, the Self-subsisting, Eternal.",
+            "ru": "Аллах - нет божества, кроме Него, Живого, Вседержителя."
+        },
+        {
+            "id": "kursi2",
+            "index": 2,
+            "clean": "لا تأخذه سنة ولا نوم",
+            "uthmani": "لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+            "enTranslit": "Laa ta'khudhuhoo sinatuw-wa laa na-oom.",
+            "ruTranslit": "Ляя та'хуҙуhуу синату-у-уа ляя на-уум.",
+            "en": "Neither drowsiness overtakes Him, nor sleep.",
+            "ru": "Им не овладевают ни дремота, ни сон."
+        },
+        {
+            "id": "kursi3",
+            "index": 3,
+            "clean": "له ما في السماوات وما في الأرض",
+            "uthmani": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
+            "enTranslit": "Lahoo maa fis-samaawaati wa maa fil-ard.",
+            "ruTranslit": "Ляhуу маа фис-самаауаати уа маа филь-ард.",
+            "en": "His are all things in the heavens and on earth.",
+            "ru": "Ему принадлежит то, что на небесах, и то, что на земле."
+        },
+        {
+            "id": "kursi4",
+            "index": 4,
+            "clean": "من ذا الذي يشفع عنده إلا بإذنه",
+            "uthmani": "مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ",
+            "enTranslit": "Man dhal-ladhee yashfaعu عindahoo illaa bi idh-nih.",
+            "ruTranslit": "Ман ҙаль-ляҙии йашфаъу ъиндаhуу иль-ляя би-иҙниh.",
+            "en": "Who is it that can intercede with Him except by His permission?",
+            "ru": "Кто станет заступаться перед Ним без Его дозволения?"
+        },
+        {
+            "id": "kursi5",
+            "index": 5,
+            "clean": "يعلم ما بين أيديهم وما خلفهم ولا يحيطون بشيء من علمه إلا بما شاء",
+            "uthmani": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ",
+            "enTranslit": "Yaعlamu maa bayna aydeehim wa maa khalfahum, wa laa yuĥeetoona bishay-im-min عilmihee illaa bimaa shaaa'. ",
+            "ruTranslit": "Йаъляму маа байна айдииhим уа маа хольфаhум, уа ляя йухиитууна бишай-им-мин-ъильмиhии иль-ляя бимаа шааа'.",
+            "en": "He knows what is before them and what is after (or behind) them, and they compass not a thing of His knowledge except for what He wills.",
+            "ru": "Он знает их будущее и прошлое. Они постигают из Его знания только то, что Он пожелает."
+        },
+        {
+            "id": "kursi6",
+            "index": 6,
+            "clean": "وسع كرسيه السماوات والأرض ولا يئوده حفظهما",
+            "uthmani": "وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا",
+            "enTranslit": "Wasiعa kursiyyuhus-samaawaati wal-arda wa laa ya-ooduhoo ĥif-dhuhumaa,",
+            "ruTranslit": "Уасиъа курсиййуhус-самаауаати уаль-ардо, уа ляя йа-уудуhу хифҙуhумаа,",
+            "en": "His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them,",
+            "ru": "Его Престол объемлет небеса и землю, и не тяготит Его оберегание их,"
+        },
+        {
+            "id": "kursi7",
+            "index": 7,
+            "clean": "وهو العلي العظيم",
+            "uthmani": "وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+            "enTranslit": "wa huwal-عaliyyul-عadheem.",
+            "ruTranslit": "уа hу-уаль-ъалиййуль-ъаҙыым.",
+            "en": "and He is the High, the Most Great.",
+            "ru": "ведь Он - Возвышенный, Великий."
+        }
+    ],
+    "ramadan": [
+        {
+            "id": "ramadan1",
+            "index": 1,
+            "clean": "شهر رمضان الذي أنزل فيه القرآن هدى للناس وبينات من الهدى والفرقان",
+            "uthmani": "شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ وَبَيِّنَاتٍ مِنَ الْهُدَى وَالْفُرْقَانِ",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "Ramadan is the month in which the Qur'an was sent down, as a guide to mankind, and clear proofs of guidance, and differentiator [between right and wrong].",
+            "ru": "В месяц рамадан был ниспослан Коран - верное руководство для людей, ясные доказательства из верного руководства и различение."
+        },
+        {
+            "id": "ramadan2",
+            "index": 2,
+            "clean": " فمن شهد منكم الشهر فليصمه",
+            "uthmani": "فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "So every one of you who witnesses the month, let him fast it,",
+            "ru": "Тот из вас, кого застанет этот месяц, должен поститься."
+        },
+        {
+            "id": "ramadan3",
+            "index": 3,
+            "clean": "ومن كان مريضا أو على سفر فعدة من أيام أخر",
+            "uthmani": "وَمَنْ كَانَ مَرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "but if any one of you is ill, or on a journey, then an equal number of other days.",
+            "ru": "А если кто болен или находится в пути, то пусть постится столько же дней в другое время."
+        },
+        {
+            "id": "ramadan4",
+            "index": 4,
+            "clean": " يريد الله بكم اليسر ولا يريد بكم العسر ولتكملوا العدة ولتكبروا الله على ما هداكم ولعلكم تشكرون",
+            "uthmani": "يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ وَلِتُكْمِلُوا الْعِدَّةَ وَلِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "Allah intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allah for that [to] which He has guided you; and perhaps you will be grateful.",
+            "ru": "Аллах желает вам облегчения и не желает вам затруднения. Он желает, чтобы вы довели до конца определенное число дней и возвеличили Аллаха за то, что Он наставил вас на прямой путь. Быть может, вы будете благодарны."
+        }
+    ],
+    "subhanaka": [
+        {
+            "id": "subhanaka1",
+            "index": 1,
+            "clean": "سبحانك اللهم وبحمدك",
+            "uthmani": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ",
+            "enTranslit": "SubĥaanakAllaahumma wa biĥamdik,",
+            "ruTranslit": "СубхаанакАллааhумма уа бихамдик,",
+            "en": "Perfect You are, O Allah, and Yours is praise!",
+            "ru": "Тебя прославляю, о мой Аллах, и Тебе возношу хвалу!"
+        },
+        {
+            "id": "subhanaka2",
+            "index": 2,
+            "clean": "وتبارك اسمك وتعالى جدك",
+            "uthmani": "وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ",
+            "enTranslit": "Wa tabaarakasmuk, Wa taعaalaa jadduk,",
+            "ruTranslit": "Уа табааракясмук, Уа таъааляя джаддук,",
+            "en": "Blessed is Your Name and high is Your Majesty,",
+            "ru": "Благословенно Имя Твое, и превыше всего Твое Величие,"
+        },
+        {
+            "id": "subhanaka3",
+            "index": 3,
+            "clean": "ولا إله غيرك",
+            "uthmani": "وَلَا إِلٰهَ غَيْرُكَ",
+            "enTranslit": "Wa laa ilaaha ghairuk.",
+            "ruTranslit": "Уа ляя иляяhа ғойрук.",
+            "en": "and none is worthy of worship but You.",
+            "ru": "и только Ты достоин поклонения."
+        }
+    ],
+    "tahiyyat": [
+        {
+            "id": "tahiyyat1",
+            "index": 1,
+            "clean": "التحيات لله والصلوات والطيبات",
+            "uthmani": "التَّحِيِّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ",
+            "enTranslit": "At-taĥiyyaatu lillaahi was-salawaatu wat-tayyibaat.",
+            "ruTranslit": "Ат-тахиййаату лиль-ляяhи уас-соляуаату уат-тоййибаат.",
+            "en": "All greetings, prayers and beautiful expressions are for Allah.",
+            "ru": "Приветствия Аллаху, и молитвы, и лучшие слова."
+        },
+        {
+            "id": "tahiyyat2",
+            "index": 2,
+            "clean": "السلام عليك أيها النبي ورحمة الله وبركاته",
+            "uthmani": "السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+            "enTranslit": "As-salaamu عalaika ayyuhan-nabiyyu wa raĥmatullaahi wa barakaatuh.",
+            "ruTranslit": "Ассаляяму ъаляйка аййухан-набиййу уа рахматуллааhи уа баракаатух.",
+            "en": "Peace be upon you, O Prophet, and Allah's mercy and blessings!",
+            "ru": "Мир тебе, о Пророк, и милость Аллаха и Его благословение!"
+        },
+        {
+            "id": "tahiyyat3",
+            "index": 3,
+            "clean": "السلام علينا وعلى عباد الله الصالحين",
+            "uthmani": "السَّلَامُ عَلَيْنَا وَ عَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ",
+            "enTranslit": "As-salaamu عalainaa wa عalaa عibadillaahis-saliĥeen.",
+            "ruTranslit": "Ассаляяму ъаляйнаа уа ъаляя ъибаадиль-ляяhис-соолихиин.",
+            "en": "Peace be upon us and upon all righteous servants of Allah.",
+            "ru": "Мир нам и праведным рабам Аллаха."
+        },
+        {
+            "id": "tahiyyat4",
+            "index": 4,
+            "clean": "أشهد أن لا إله إلا الله",
+            "uthmani": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللَّهُ",
+            "enTranslit": "Ash-hadu al-laa ilaaha il-lAllaah,",
+            "ruTranslit": "Ашхаду аль-ляя иляяhа иль-ляллааh,",
+            "en": "I bear witness that there is no god except Allah,",
+            "ru": "Свидетельствую, что нету бога кроме Аллаха,"
+        },
+        {
+            "id": "tahiyyat5",
+            "index": 5,
+            "clean": "وأشهد أن محمدا عبده ورسوله",
+            "uthmani": "وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَ رَسُولُهُ",
+            "enTranslit": "wa ash-hadu anna Muĥammadan عabduhoo wa rasooluh.",
+            "ruTranslit": "уа ашхаду анна Мухаммадан ъабдухуу уа расуулюх.",
+            "en": "And I bear witness that Muhammad is His servant and messenger.",
+            "ru": "и свидетельствую что Мухаммад - Его раб и посланник."
+        }
+    ],
+    "salawat": [
+        {
+            "id": "salawat1",
+            "index": 1,
+            "clean": "اللهم صل على محمد وعلى آل محمد",
+            "uthmani": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+            "enTranslit": "Allaahumma salli عalaa Muĥammad, wa عalaa aalee Muĥammad,",
+            "ruTranslit": "Аллааhумма солли ъаляя Мухаммад уа ъаляя аали Мухаммад,",
+            "en": "O Allah, honor Muhammad and the family of Muhammad,",
+            "ru": "О Аллах, благослови Мухаммада и семейство Мухаммада,"
+        },
+        {
+            "id": "salawat2",
+            "index": 2,
+            "clean": "كما صليت على إبراهيم وعلى آل إبراهيم",
+            "uthmani": "كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ",
+            "enTranslit": "kamaa sallayta عalaa Ibraheem wa عalaa aalee Ibraheem,",
+            "ruTranslit": "кямаа соль-ляйта ъаляя Иброхим уа ъаляя аали Иброхим,",
+            "en": "as You honored Ibrahim and the family of Ibrahim,",
+            "ru": "как благословил Ты Ибрахима и семейство Ибрахима,"
+        },
+        {
+            "id": "salawat3",
+            "index": 3,
+            "clean": "إنك حميد مجيد",
+            "uthmani": "إِنَّكَ حَمِيدٌ مَجِيدٌ",
+            "enTranslit": "innaka Ĥameedum-Majeed.",
+            "ruTranslit": "иннакя Хамиидум-Маджиид.",
+            "en": "Verily, You are the Praiseworthy, the Glorious.",
+            "ru": "Поистине, Ты – Восхваляемый, Славный!"
+        },
+        {
+            "id": "salawat4",
+            "index": 4,
+            "clean": "اللهم بارك على محمد وعلى آل محمد",
+            "uthmani": "اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+            "enTranslit": "Allaahumma baarik عalaa Muĥammad wa عalaa aalee Muĥammad,",
+            "ruTranslit": "Аллааhумма баарик ъаляя Мухаммад уа ъаляя аали Мухаммад,",
+            "en": "O Allah, bless Muhammad and the family of Muhammad,",
+            "ru": "О Аллах, ниспошли благодать Мухаммаду и семейству Мухаммада,"
+        },
+        {
+            "id": "salawat5",
+            "index": 5,
+            "clean": "كما باركت على إبراهيم وعلى آل إبراهيم",
+            "uthmani": "كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ",
+            "enTranslit": "kamaa baarakta عalaa Ibraheem wa عalaa aalee Ibraheem,",
+            "ruTranslit": "кямаа барокта ъаляя Иброхим уа ъаляя аали Иброхим,",
+            "en": "as You blessed Ibrahim and the family of Ibrahim,",
+            "ru": "как ниспослал Ты благодать Ибрахиму и семейству Ибрахима,"
+        },
+        {
+            "id": "salawat6",
+            "index": 6,
+            "clean": "إنك حميد مجيد",
+            "uthmani": "إِنَّكَ حَمِيدٌ مَجِيدٌ",
+            "enTranslit": "innaka Ĥameedum-Majeed.",
+            "ruTranslit": "иннакя Хамиидум-Маджиид.",
+            "en": "Verily, You are the Praiseworthy, the Glorious.",
+            "ru": "Поистине, Ты – Восхваляемый, Славный!"
+        }
+    ],
+    "qunoot": [
+        {
+            "id": "qunoot1",
+            "index": 1,
+            "clean": "اللهم إنا نستعينك ونستغفرك ونستهديك",
+            "uthmani": "اللَّهُمَّ إِنَّا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنَسْتَهْدِيكَ",
+            "enTranslit": "Allaahumma innaa nastaعeenuka wa nastaghfiruka wa nastahdeek.",
+            "ruTranslit": "Аллааhумма иннаа настаъиинука уа настағфирука уа настаһдиик.",
+            "en": "Oh Allah, we seek from You help, forgiveness and guidance.",
+            "ru": "О мой Аллаh! Просим у Тебя помощи и прощения! Укажи нам истинный путь."
+        },
+        {
+            "id": "qunoot2",
+            "index": 2,
+            "clean": "ونؤمن بك ونتوب إليك",
+            "uthmani": "وَنُؤْمِنُ بِكَ وَنَتُوبُ إِلَيْكَ",
+            "enTranslit": "Wa nu'minu bika wa natoobu ila-yeek.",
+            "ruTranslit": "Уа ну'мину бика уа натуубу иля-йиик.",
+            "en": "We believe in You, and turn to You in repentance.",
+            "ru": "Мы верим в Тебя и каемся пред Тобой!"
+        },
+        {
+            "id": "qunoot3",
+            "index": 3,
+            "clean": "ونتوكل عليك",
+            "uthmani": "وَنَتَوَكَّلُ عَلَيْكَ",
+            "enTranslit": "Wa natawakkalu عala-eek.",
+            "ruTranslit": "Уа натауаккялю ъаля-йиик.",
+            "en": "We trust and rely on You,",
+            "ru": "Мы полагаемся на Тебя"
+        },
+        {
+            "id": "qunoot4",
+            "index": 4,
+            "clean": "ونثني عليك الخير كله نشكرك",
+            "uthmani": "وَنُثْنِي عَلَيْكَ الْخَيْرَ كُلَّهُ نَشْكُرُكَ",
+            "enTranslit": "Wa nuthnee عalaikal-khaira kullahu nashkuruk.",
+            "ruTranslit": "Уа нуçнии ъаляйкяль-хойро куль-ляһу нашкурук.",
+            "en": "We praise You for all the good things, and are grateful to You,",
+            "ru": "и возносим Тебе хвалу за все благое, и благодарим Тебя!"
+        },
+        {
+            "id": "qunoot5",
+            "index": 5,
+            "clean": "ولا نكفرك",
+            "uthmani": "وَلَا نَكْفُرُكَ ",
+            "enTranslit": "Wa laa nakfuruk.",
+            "ruTranslit": "Уа ляя накфурук.",
+            "en": "and we will not deny Your blessings.",
+            "ru": "Мы не будем совершать неверия!"
+        },
+        {
+            "id": "qunoot6",
+            "index": 6,
+            "clean": "ونخلع ونترك من يفجرك",
+            "uthmani": "وَنَخْلَعُ وَنَتْرُكُ مَنْ يَفْجُرُكَ",
+            "enTranslit": "Wa nakhlaعu wa natruku may-yafjuruk.",
+            "ruTranslit": "Уа нахляъу уа натруку май-йафджурук:",
+            "en": "We turn away from and give up the one who disobeys You.",
+            "ru": "Отвергнем и отвернемся от того, кто распутствует против Тебя."
+        },
+        {
+            "id": "qunoot7",
+            "index": 7,
+            "clean": "اللهم إياك نعبد ولك نصلي ونسجد",
+            "uthmani": "اللَّهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّي وَنَسْجُدُ",
+            "enTranslit": "Allaahumma iyyaaka naعbudu wa laka nusallee wa nasjud.",
+            "ruTranslit": "Аллааhумма иййаакя наъбуду уа лякя нусоль-лии  уа насджуд.",
+            "en": "O Allah! You alone do we worship, and You alone do we pray to and prostrate before,",
+            "ru": "О мой Аллаh! Тебе одному мы поклоняемся, и ради Тебя совершаем намаз и земные поклоны."
+        },
+        {
+            "id": "qunoot8",
+            "index": 8,
+            "clean": "وإليك نسعى ونحفد",
+            "uthmani": "وَإِلَيْكَ نَسْعَى وَنَحْفِدُ",
+            "enTranslit": "Wa ilaika nasعaa wa naĥfid.",
+            "ruTranslit": "Уа иляйка насъаа уа нахфид.",
+            "en": "And You alone do we hasten to and strive to serve.",
+            "ru": "К Тебе одному стремимся и Тебе спешим служить."
+        },
+        {
+            "id": "qunoot9",
+            "index": 9,
+            "clean": "نرجو رحمتك ونخشى عذابك",
+            "uthmani": "نَرْجُو رَحْمَتَكَ وَنَخْشَى عَذَابَكَ",
+            "enTranslit": "Narjoo raĥmataka wa nakh-shaa عadhaabak.",
+            "ruTranslit": "Нарджуу рохматака уа нахшаа ъаҙаабак.",
+            "en": "We hope for Your Mercy and fear Your punishment,",
+            "ru": "Надеемся на Твою Милость, и страшимся Твоего наказания!"
+        },
+        {
+            "id": "qunoot10",
+            "index": 10,
+            "clean": "إن عذابك بالكفار ملحق",
+            "uthmani": "إِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحِقٌ",
+            "enTranslit": "Inna عadhaabaka bil-kuffaari mulĥiq.",
+            "ruTranslit": "Иннаа ъаҙаабака биль-куффаари мульхиқ.",
+            "en": "Verily, Your punishment is going to overtake the disbelievers.",
+            "ru": "Нет сомнения, наказание Твое постигнет неверующих."
+        }
+    ],
+    "protection": [
+        {
+            "id": "dp1",
+            "index": 1,
+            "clean": "حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم",
+            "uthmani": "حَسْبِيَ اللَّهُ لَا إِلٰهَ إِلَا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+            "enTranslit": "ĤasbiyAllaahu laa ilaaha illaa huwa, عalaihi tawakkaltu, wa huwa rabbul-عarshil-عadheem ",
+            "ruTranslit": "Хасби-йАллаhу ляя иляяhа иль-ляя hу-уа, ъаляйhи тауаккяльту, уа hу-уа роббуль-ъаршиль-ъаҙыым.",
+            "en": "Allah is my sufficiency, there is no god but He, on Him I rely, and He is Lord of the Mighty Throne.",
+            "ru": "Мне достаточно Аллаха! Нет божества, кроме Него. Я уповаю только на Него, ибо Он - Господь великого Трона."
+        },
+        {
+            "id": "dp2",
+            "index": 2,
+            "clean": "بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم",
+            "uthmani": "بِسْمِ اللَّهُ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+            "enTranslit": "Bismillaahil-ladhee laa yadurru maعasmihi shay-un fil-ardi wa laa fis-samaa'. Wa huwas-sameeعul-عaleem",
+            "ruTranslit": "Бисмиль-ляяhиль-ляҙии ляя йадурру маъасмиһии шяй-ун филь-арды уа ляя фис-самаа'. Уа  hу-уас-самииъуль-ъалиим.",
+            "en": "In the name of Allah, with whose name nothing can cause harm in the earth or sky, and He is the the All-hearing, the All-knowing.",
+            "ru": "С именем Аллаха, с которым ничто не навредит ни на земле, ни на небе, и Он Всеслышащий и Всезнающий."
+        },
+        {
+            "id": "dp3",
+            "index": 3,
+            "clean": "أعوذ بكلمات الله التامات من شر ما خلق",
+            "uthmani": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+            "enTranslit": "Aعoodhu bikalimaatillaahit-taaammaati min sharri maa khalaq",
+            "ruTranslit": "Аъууҙу бикалимаатиль-ляяhит-таааммаати мин шарри маа холяқ.",
+            "en": "I take refuge in the perfect words of Allah from the evil of what He has created.",
+            "ru": "Ищу убежища в совершенных словах Аллаха от зла того, что сотворил Он."
+        },
+        {
+            "id": "dp4",
+            "index": 4,
+            "clean": "ولا حول و لا قوة إلا بالله العلي العظيم",
+            "uthmani": "وَلَا حَوْلَ وَ لَا قُوَّةَ إِلَا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+            "enTranslit": "Wa laa ĥawla wa laa quwwata illaa billaahil-عaliyyil-عadheem",
+            "ruTranslit": "Уа ляя хауля уа ляя қу-ууата иль-ляя биль-ляяһиль-ъалиййиль-ъаҙыым.",
+            "en": "And there is no power or strength except by Allah, the High, the Most Great.",
+            "ru": "И нет ни могущества, ни силы кроме как у Аллаха, Возвышенного, Великого."
+        },
+        {
+            "id": "dp5",
+            "index": 5,
+            "clean": "وصلى الله على سيدنا محمد و على آله و صحبه و سلم",
+            "uthmani": "وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَ عَلَى آلِهِ وَ صَحْبِهِ وَ سَلَّمَ",
+            "enTranslit": "Wa sallaLlaahu عalaa sayyidinaa Muĥammadin wa عalaa aalihi wa saĥbihi wa sallam ",
+            "ruTranslit": "Уа саллаЛлааһу ъаляя саййидинаа Мухаммадин уа ъаляя аалиһии уа сахбиһии уа саллям.",
+            "en": "And Allah bless our leader Muhammad, and his folk and companions and give them peace.",
+            "ru": "И да благословит Аллах нашего предводителя Мухаммада, и его семью и сподвижников, и дарует им мира."
+        }
+    ],
+    "adhkarAP": [
+        {
+            "id": "istighfarAP",
+            "index": 1,
+            "clean": "أستغفر الله أستغفر الله أستغفر الله",
+            "uthmani": "أَسْتَغْفِرُ اللَّهَ أَسْتَغْفِرُ اللَّهَ أَسْتَغْفِرُ اللَّهَ",
+            "enTranslit": "Astaghfirullaah, astaghfirullaah, astaghfirullaah.",
+            "ruTranslit": "Астағфируллааh, астағфируллааh, астағфируллааh.",
+            "en": "I seek forgiveness of Allah, I seek forgiveness of Allah, I seek forgiveness of Allah.",
+            "ru": "Прошу прощения у Аллаhа, прошу прощения у Аллаhа, прошу прощения у Аллаhа."
+        },
+        {
+            "id": "duaSalamAP",
+            "index": 2,
+            "clean": "اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام",
+            "uthmani": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالإِكْرَامِ",
+            "enTranslit": "Allaahumma antas-salaam, wa minkas-salaam, tabaarakta yaa dhal-jalaali wal-ikraam",
+            "ruTranslit": "Аллааhумма антас-саляям уа минкас-саляям, табааракта йаа ҙаль-джаляяли уаль-икраам.",
+            "en": "O Allah, You are Free from any imperfection, and from You comes peace, blessed You are, O Possessor of majesty and generosity.",
+            "ru": "О Аллаh, Ты - Тот, у Которого нет недостатков и изъянов, от Тебя исходит мир и безопасность. Благословен Ты, о Обладатель Величия и Щедрости."
+        },
+        {
+            "id": "duaHelpAP",
+            "index": 3,
+            "clean": "اللهم أعني على ذكرك وشكرك وحسن عبادتك",
+            "uthmani": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+            "enTranslit": "Allaahumma a3innee 3alaa dhikrik, wa shukrik, wa ĥusni 3ibaadatik.",
+            "ruTranslit": "Аллааhумма аъиннии ъаляя ҙикрик, уа шукрик, уа хусни ъибаадатик.",
+            "en": "O Allah, help me to remember You, expressing gratitude towards You, and to worship You in the best manner.",
+            "ru": "О Аллаh, помоги мне поминать Тебя, благодарить Тебя, и поклоняться Тебе наилучшим образом!"
+        },
+        {
+            "id": "isti3adhaAP",
+            "index": 4,
+            "clean": "أعوذ بالله من الشيطان الرجيم",
+            "uthmani": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+            "enTranslit": "Aعoodhu billaahi minash-shaitaanir-rajeem.",
+            "ruTranslit": "Аъууҙу биль-ляяhи минаш-шайтоонир-роджиим.",
+            "en": "I seek refuge in Allah from Satan the accursed.",
+            "ru": "Ищу убежища у Аллаhа от проклятого сатаны."
+        },
+        {
+            "id": "kursi1AP",
+            "index": 5,
+            "clean": "الله لا إله إلا هو الحي القيوم",
+            "uthmani": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+            "enTranslit": "Allaahu laaa ilaaha illaa huwal-ĥayyul-qayyoom.",
+            "ruTranslit": "Аллааhу ляя иляяhа иль-ляя hу-уаль-хаййуль-қаййуум.",
+            "en": "Allah! There is no god but He, the Living, the Self-subsisting, Eternal.",
+            "ru": "Аллаh - нет божества, кроме Него, Живого, Вседержителя."
+        },
+        {
+            "id": "kursi2AP",
+            "index": 6,
+            "clean": "لا تأخذه سنة ولا نوم",
+            "uthmani": "لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+            "enTranslit": "Laa ta'khudhuhoo sinatuw-wa laa na-oom.",
+            "ruTranslit": "Ляя та'хуҙуhуу синату-у-уа ляя на-уум.",
+            "en": "Neither drowsiness overtakes Him nor sleep.",
+            "ru": "Им не овладевают ни дремота, ни сон."
+        },
+        {
+            "id": "kursi3AP",
+            "index": 7,
+            "clean": "له ما في السماوات وما في الأرض",
+            "uthmani": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
+            "enTranslit": "Lahoo maa fis-samaawaati wa maa fil-ard.",
+            "ruTranslit": "Ляhуу маа фис-самаауаати уа маа филь-ард.",
+            "en": "His are all things in the heavens and on earth.",
+            "ru": "Ему принадлежит то, что на небесах, и то, что на земле."
+        },
+        {
+            "id": "kursi4AP",
+            "index": 8,
+            "clean": "من ذا الذي يشفع عنده إلا بإذنه",
+            "uthmani": "مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ",
+            "enTranslit": "Man dhal-ladhee yashfaعu عindahoo illaa bi idh-nih.",
+            "ruTranslit": "Ман ҙаль-ляҙии йашфаъу ъиндаhуу иль-ляя би-иҙниh.",
+            "en": "Who is it that can intercede with Him except by His permission?",
+            "ru": "Кто станет заступаться перед Ним без Его дозволения?"
+        },
+        {
+            "id": "kursi5AP",
+            "index": 9,
+            "clean": "يعلم ما بين أيديهم وما خلفهم",
+            "uthmani": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ",
+            "enTranslit": "Yaعlamu maa bayna aydeehim wa maa khalfahum,",
+            "ruTranslit": "Йаъляму маа байна айдииhим уа маа хольфаhум,",
+            "en": "He knows what is before them and what is after (or behind) them,",
+            "ru": "Он знает их будущее и прошлое."
+        },
+        {
+            "id": "kursi6AP",
+            "index": 10,
+            "clean": "ولا يحيطون بشيء من علمه إلا بما شاء",
+            "uthmani": "وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ",
+            "enTranslit": "wa laa yuĥeetoona bishay-im-min عilmihee illaa bimaa shaaa'. ",
+            "ruTranslit": "уа ляя йухиитууна бишай-им-мин-ъильмиhии иль-ляя бимаа шааа'.",
+            "en": "and they compass not a thing of His knowledge except for what He wills.",
+            "ru": "Они постигают из Его знания только то, что Он пожелает."
+        },
+        {
+            "id": "kursi7AP",
+            "index": 11,
+            "clean": "وسع كرسيه السماوات والأرض",
+            "uthmani": "وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ",
+            "enTranslit": "Wasiعa kursiyyuhus-samaawaati wal-ard,",
+            "ruTranslit": "Уасиъа курсиййуhус-самаауаати уаль-ард,",
+            "en": "His Throne extends over the heavens and the earth,",
+            "ru": "Его Престол объемлет небеса и землю,"
+        },
+        {
+            "id": "kursi8AP",
+            "index": 12,
+            "clean": "ولا يئوده حفظهما",
+            "uthmani": "وَلَا يَئُودُهُ حِفْظُهُمَا",
+            "enTranslit": "wa laa ya-ooduhoo ĥif-dhuhumaa,",
+            "ruTranslit": "уа ляя йа-уудуhу хифҙуhумаа,",
+            "en": "and He feels no fatigue in guarding and preserving them,",
+            "ru": "и не тяготит Его оберегание их,"
+        },
+        {
+            "id": "kursi9AP",
+            "index": 13,
+            "clean": "وهو العلي العظيم",
+            "uthmani": "وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+            "enTranslit": "wa huwal-عaliyyul-عadheem.",
+            "ruTranslit": "уа hу-уаль-ъалиййуль-ъаҙыым.",
+            "en": "for He is the High, the Most Great.",
+            "ru": "ведь Он - Возвышенный, Великий."
+        },
+        {
+            "id": "tasbeehAP",
+            "index": 14,
+            "clean": "سبحان الله",
+            "uthmani": "سُبْحَانَ اللَّهِ",
+            "enTranslit": "SubḥaanAllaah",
+            "ruTranslit": "Субхааналлааh",
+            "en": "Allah is exalted above imperfection",
+            "ru": "Аллаh Пречист! (от любых недостатков и несовершеств)"
+        },
+        {
+            "id": "tahmeedAP",
+            "index": 15,
+            "clean": "الحمد لله",
+            "uthmani": "الحَمْدُ لِلَّهِ",
+            "enTranslit": "Alḥamdulillaah",
+            "ruTranslit": "Аль-хамду лиль-ляяh",
+            "en": "All praise belongs to Allah",
+            "ru": "Вся хвала принадлежит Аллаhу!"
+        },
+        {
+            "id": "takbeerAP",
+            "index": 16,
+            "clean": "الله أكبر",
+            "uthmani": "اللَّهُ أكْبَرُ",
+            "enTranslit": "Allaahu akbar",
+            "ruTranslit": "Аллааhу акбар",
+            "en": "Allah is greater",
+            "ru": "Аллах - Величайший! (важнее и величественнее всего)"
+        },
+        {
+            "id": "tahleelAP1",
+            "index": 17,
+            "clean": "لا إله إلا الله",
+            "uthmani": "لاَ إلَهَ إلاَّ اللَّهُ",
+            "enTranslit": "Laa ilaaha illallaah,",
+            "ruTranslit": "Ляя иляяhа иль-лаллааh,",
+            "en": "There is no god but Allah,",
+            "ru": "Нет бога кроме Аллаhа,"
+        },
+        {
+            "id": "tahleelAP2",
+            "index": 18,
+            "clean": "وحده لا شريك له",
+            "uthmani": "وَحْدَهُ لاَ شَرِيكَ لَهُ",
+            "enTranslit": "waḥdahuu laa shareeka lah,",
+            "ruTranslit": "Уахдаhуу ляя шариика ляh,",
+            "en": "the only One, without a partner,",
+            "ru": "Он - один, нет у Него сотоварищей."
+        },
+        {
+            "id": "tahleelAP3",
+            "index": 19,
+            "clean": "له الملك وله الحمد",
+            "uthmani": "لَهُ المُلْكُ ولَهُ الحَمْدُ",
+            "enTranslit": "lahul-mulku wa lahul-ḥamd,",
+            "ruTranslit": "ляhуль-мульку уа ляhуль-хамд,",
+            "en": "To Him alone belongs the dominion, and to Him alone belongs all praise,",
+            "ru": "Ему одному принадлежить власть, и Ему одному принадлежит вся хвала,"
+        },
+        {
+            "id": "tahleelAP4",
+            "index": 20,
+            "clean": "وهو على كل شيء قدير",
+            "uthmani": "وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+            "enTranslit": "wa huwa عalaa kulli shay-in qadeer",
+            "ruTranslit": "уа ху-уа ъаляя кулли шай-ин қодиир.",
+            "en": "and He is over all things powerful.",
+            "ru": "И Он над каждой вещью властен!"
+        }
+    ],
+    "istikhara": [
+        {
+            "id": "silent_short",
+            "index": 0,
+            "clean": "",
+            "uthmani": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "Istikhara is a way of asking Allah for help and guidance, when making a decision or choice.\nThe Prophet (peace and blessing be upon him) said: If any of you thinks of doing a job, he should offer two rak`at of a non-obligatory prayer and say:",
+            "ru": "Истихара - это способ обращения к Аллаху за помощью и руководством при принятии решений или выборе.\nПророк (мир ему и благословение) сказал: Если кто-то из думает предпринять какое-либо дело, ему следует совершить два ракъата необязательной молитвы и произнести следующее дуа:"
+        },
+        {
+            "id": "istikhara1",
+            "index": 1,
+            "clean": "اللهم اني استخيرك بعلمك",
+            "uthmani": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ ",
+            "enTranslit": "Allaahumma innee astakheeruka biعilmik",
+            "ruTranslit": "Аллааhумма иннии астахирука биъилмик,",
+            "en": "Dear God, I’m asking You to choose for me through Your [All-Encompassing] Knowledge,",
+            "ru": "О Аллах, я прошу Тебя помочь мне выбрать через Твое Знание,"
+        },
+        {
+            "id": "istikhara2",
+            "index": 2,
+            "clean": "واستقدرك بقدرتك",
+            "uthmani": "وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ",
+            "enTranslit": "wa astaqdiruka biqudratik",
+            "ruTranslit": "уа астақдирука биқудратик,",
+            "en": "and I’m asking You to enable me through Your [Absolute] Power,",
+            "ru": "и прошу тебя даровать мне способность через Твое Могущество,"
+        },
+        {
+            "id": "istikhara3",
+            "index": 3,
+            "clean": "واسالك من فضلك العظيم",
+            "uthmani": "وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ",
+            "enTranslit": "wa as-aluka min faḍlikal-عadheem,",
+            "ruTranslit": "уа ас-алюка мин фадликяль-ъаҙыым,",
+            "en": "and I’m asking You from Your Incommensurable Grace.",
+            "ru": "и прошу Тебя из Твоей Великой Щедрости,"
+        },
+        {
+            "id": "istikhara4",
+            "index": 4,
+            "clean": "فانك تقدر ولا اقدر",
+            "uthmani": "فَإِنَّكَ تَقْدِرُ وَلاَ أَقْدِرُ",
+            "enTranslit": "fa-innaka taqdiru wa laa aqdir",
+            "ruTranslit": "фаиннакя тақдиру уа ляя ақдир,",
+            "en": "Since verily You have power, while I do not.",
+            "ru": "ибо поистине Ты обладаешь cилой, а я не обладаю,"
+        },
+        {
+            "id": "istikhara5",
+            "index": 5,
+            "clean": "وتعلم ولا اعلم",
+            "uthmani": "وَتَعْلَمُ وَلاَ أَعْلَمُ",
+            "enTranslit": "wa taعlamu wa laa aعlam",
+            "ruTranslit": "уа таъляму уа ляя аълям,",
+            "en": "And You know, while I know not,",
+            "ru": "ибо поистине Ты знаешь, а я не знаю,"
+        },
+        {
+            "id": "istikhara6",
+            "index": 6,
+            "clean": "وانت علام الغيوب",
+            "uthmani": "وَأَنْتَ عَلاَّمُ الْغُيُوبِ",
+            "enTranslit": "wa anta عallaamul-ghuyoob.",
+            "ruTranslit": "уа анта ъаль-ляямуль-ғуйууб.",
+            "en": "and You are the Knower of all things unseen.",
+            "ru": "и Ты – Знающий все скрытое."
+        },
+        {
+            "id": "istikhara7",
+            "index": 7,
+            "clean": "اللهم ان كنت تعلم ان هذا الامر خير لي في ديني ومعاشي وعاقبة امري",
+            "uthmani": "اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي",
+            "enTranslit": "Allaahumma in kunta taعlamu anna hadhal-amra khayrul-lee fee deenee, wa maعaashee, wa عaaqibati amree,",
+            "ruTranslit": "Аллааhумма ин кунта таъляму анна hаҙаль-амра хойруль-лии фии диинии, уа маъаашии, уа ъаақибати амрии,",
+            "en": "Dear God, if You know that this affair is good for my religion, and my worldly life, and the final outcome of my affairs,",
+            "ru": "О Аллах, если Ты знаешь, что это дело будет благом для меня в моей религии, в моей жизни, и для исхода моих дел,"
+        },
+        {
+            "id": "istikhara8",
+            "index": 8,
+            "clean": "فاقدره لي ويسره لي ثم بارك لي فيه",
+            "uthmani": "فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ",
+            "enTranslit": "faqdurhu lee, wa yas-sirhu lee, thumma baarik lee feeh.",
+            "ruTranslit": "фақдурhу лии, уа йассирhу лии, çумма баарик лии фииh.",
+            "en": "then decree it for me, and facilitate it for me with ease, and bless it for me.",
+            "ru": "то предопредели его для меня, и облегчи его для меня, а затем сделай его для меня благословенным."
+        },
+        {
+            "id": "istikhara9",
+            "index": 9,
+            "clean": "وان كنت تعلم ان هذا الامر شر لي في ديني ومعاشي وعاقبة امري",
+            "uthmani": "وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي",
+            "enTranslit": "Wa in kunta taعlamu anna hadhal-amra sharrul-lee fee deenee, wa maعaashee, wa عaaqibati amree,",
+            "ruTranslit": "Уа ин кунта таъляму анна hаҙаль-амра шарруль-лии фии диинии, уа маъаашии, уа ъаақибати амрии,",
+            "en": "But if You know that this affair is bad for my religion, my worldly life, and the final outcome of my affairs,",
+            "ru": "А если Ты знаешь, что это дело обернётся злом для моей религии, моей жизни и для исхода моих дел,"
+        },
+        {
+            "id": "istikhara10",
+            "index": 10,
+            "clean": "فاصرفه عني واصرفني عنه واقدر لي الخير حيث كان ثم ارضني به",
+            "uthmani": "فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ وَاقْدُرْ لِي الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ",
+            "enTranslit": "faṣrifhu عannee, waṣrifnee عanh, waqdur liyal-khayra ĥaythu kaan, thummarḍeenee bih.",
+            "ruTranslit": "фасрифhу ъаннии, уасрифнии ъанh, уақдур лийаль-хойра хайçу кяян, çуммардынии биh.",
+            "en": "then get it away from me, and get me away from it, and decree what’s better for me, wherever it may be, and make me content with it.",
+            "ru": "то отдали его от меня, и отдали меня от него, и предопредели мне благо, где бы оно ни было, а потом сделай меня довольным этим."
+        }
+    ],
+    "adhan": [
+        {
+            "id": "adhan1",
+            "index": 1,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan2",
+            "index": 2,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan3",
+            "index": 3,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan4",
+            "index": 4,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan5",
+            "index": 5,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan6",
+            "index": 6,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan7",
+            "index": 7,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan8",
+            "index": 8,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan9",
+            "index": 9,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan10",
+            "index": 10,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan11",
+            "index": 11,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan12",
+            "index": 12,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan13",
+            "index": 13,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "adhan14",
+            "index": 14,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        }
+    ],
+    "duaAdhan": [
+        {
+            "id": "duaAdhan1",
+            "index": 1,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan2",
+            "index": 2,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan3",
+            "index": 3,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan4",
+            "index": 4,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan5",
+            "index": 5,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan6",
+            "index": 6,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan7",
+            "index": 7,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan8",
+            "index": 8,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan9",
+            "index": 9,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan10",
+            "index": 10,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan11",
+            "index": 11,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan12",
+            "index": 12,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan13",
+            "index": 13,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        },
+        {
+            "id": "duaAdhan14",
+            "index": 14,
+            "clean": "",
+            "uthmani": "",
+            "enTranslit": "",
+            "ruTranslit": "",
+            "en": "",
+            "ru": ""
+        }
+    ]
+}

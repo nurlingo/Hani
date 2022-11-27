@@ -1,15 +1,15 @@
 //
-//  HaniApp.swift
-//  Hani
+//  hanyApp.swift
+//  hany
 //
-//  Created by Nursultan Askarbekuly on 27.11.2022.
+//  Created by Daniya on 16/09/2022.
 //
 
 import SwiftUI
 import AVFoundation
 
 @main
-struct HaniApp: App {
+struct HanyApp: App {
     
     @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
     
