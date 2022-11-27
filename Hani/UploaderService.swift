@@ -8,7 +8,15 @@
 
 import Foundation
 
+struct Credentials {
+    let remoteAPI: String
+    let username: String
+    let password: String
+}
+
 class UploaderService {
+    
+    let creds: Credentials = credentials
     
     private let fileManager = FileManager.default
         
@@ -63,13 +71,13 @@ class UploaderService {
     }
     
     private func getToken() async {
-        let url = URL(string: "http://20.115.38.12:8000/token")!
+        let url = URL(string: "\(creds.remoteAPI)token")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
         
         let parameters: [String: Any] = [
-            "username": "",
-            "password": ""
+            "username": creds.username,
+            "password": creds.password
         ]
         
         request.httpBody = parameters.percentEncoded()
@@ -99,7 +107,7 @@ class UploaderService {
     
     private func getClientID() async {
         
-        let url = URL(string: "http://20.115.38.12:8000/me")!
+        let url = URL(string: "\(creds.remoteAPI)me")!
         var request = URLRequest(url: url)
         request.httpMethod = "GET"
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
@@ -150,7 +158,7 @@ class UploaderService {
     private func upload(_ track: String) async {
         
         print("uploading \(track)")
-        let url = URL(string: "http://20.115.38.12:8000/audios?client_id=nurios&surra_number=\(Int(track.prefix(3)) ?? 0)&aya_number=\(Int(track.suffix(3)) ?? 0)")!
+        let url = URL(string: "\(creds.remoteAPI)audios?client_id=nurios&surra_number=\(Int(track.prefix(3)) ?? 0)&aya_number=\(Int(track.suffix(3)) ?? 0)")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
         request.addValue("application/json", forHTTPHeaderField: "Accept")

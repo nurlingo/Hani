@@ -98,6 +98,7 @@
 		5C9C8DFB2933E6E30004C278 /* AudioSection.json in Resources */ = {isa = PBXBuildFile; fileRef = 5C9C8DA22933E6E00004C278 /* AudioSection.json */; };
 		5C9C8DFC2933E6E30004C278 /* AudioDict.json in Resources */ = {isa = PBXBuildFile; fileRef = 5C9C8DA32933E6E10004C278 /* AudioDict.json */; };
 		5C9C8DFE2933E6E30004C278 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9C8DA52933E6E30004C278 /* PlayerView.swift */; };
+		5C9C8E012933ED030004C278 /* Credentials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9C8E002933ED030004C278 /* Credentials.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -195,6 +196,7 @@
 		5C9C8DA32933E6E10004C278 /* AudioDict.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AudioDict.json; sourceTree = "<group>"; };
 		5C9C8DA52933E6E30004C278 /* PlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
 		5C9C8DFF2933E7D20004C278 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		5C9C8E002933ED030004C278 /* Credentials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Credentials.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,6 +248,7 @@
 				5C9C8D9F2933E6DF0004C278 /* Storage.swift */,
 				5C9C8D532933E6D80004C278 /* String+.swift */,
 				5C9C8D522933E6D70004C278 /* UploaderService.swift */,
+				5C9C8E002933ED030004C278 /* Credentials.swift */,
 				5C9C8D4D2933E6D70004C278 /* KFGQPC Uthmanic Script HAFS Regular */,
 				5C9C8D402933E6C30004C278 /* Assets.xcassets */,
 				5C9C8D422933E6C30004C278 /* Hani.entitlements */,
@@ -503,6 +506,7 @@
 				5C9C8DFA2933E6E30004C278 /* Model.swift in Sources */,
 				5C9C8DAA2933E6E30004C278 /* RecorderView.swift in Sources */,
 				5C9C8DA72933E6E30004C278 /* PlayerViewModel.swift in Sources */,
+				5C9C8E012933ED030004C278 /* Credentials.swift in Sources */,
 				5C9C8DA62933E6E30004C278 /* Bundle+Decodable.swift in Sources */,
 				5C9C8D3D2933E6C00004C278 /* HaniApp.swift in Sources */,
 				5C9C8DF92933E6E30004C278 /* QuranAPI.swift in Sources */,
